@@ -30,7 +30,7 @@ Elder Futhark keyboard for android
 |      P |  ᛈ   | 5832 (U+16C8) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    |                                                |
 |      Q |      |               | ![red](https://via.placeholder.com/15/e06c75/000000?text=+) Missing      | Formerly `ᛜ 5852 (U+16DC)`                     |
 |      R |  ᚱ   | 5809 (U+16B1) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    |                                                |
-|      S |  ᛊ   | 5834 (U+16CA) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    | Formerly `ϟ 991 (U+03DF)`                      |
+|      S |  ᛊ   | 5834 (U+16CA) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    | Looks like `Σ` in some fonts; Formerly `ϟ 991 (U+03DF)`                      |
 |      T |  ᛏ   | 5839 (U+16CF) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    |                                                |
 |      U |  ᚢ   | 5794 (U+16A2) | ![blue](https://via.placeholder.com/15/61afef/000000?text=+) Not angular | Didn't find a better Unicode char              |
 |      V |  ᚹ   | 5817 (U+16B9) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    | Same as 'W'                                    |
