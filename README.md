@@ -40,8 +40,8 @@ Elder Futhark keyboard for Android
 |      Z |  ᛉ   | 5833 (U+16C9) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    |                                                |
 |      : |  ᛬   | 5868 (U+16EC) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    |                                                |
 |      . |  ᛫   | 5867 (U+16EB) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    |                                                |
-|        |  ᚦ   | 5798 (U+16A6) | ![purple](https://via.placeholder.com/15/c678dd/000000?text=+) No letter-mapping | Phonetic `[θ]` `(TH)ing`               |
-|        |  ᛜ   | 5852 (U+16DC) | ![purple](https://via.placeholder.com/15/c678dd/000000?text=+) No letter-mapping | Phonetic `[ŋ]` `fi(NG)er`              |
+|        |  ᚦ   | 5798 (U+16A6) | ![purple](https://via.placeholder.com/15/c678dd/000000?text=+) No letter-mapping | 'X'-key on keyboard; Phonetic `[θ]` `(TH)ing`               |
+|        |  ᛜ   | 5852 (U+16DC) | ![purple](https://via.placeholder.com/15/c678dd/000000?text=+) No letter-mapping | 'Q'-key on keyboard; Phonetic `[ŋ]` `fi(NG)er`              |
 
 
 
