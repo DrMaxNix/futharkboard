@@ -36,12 +36,11 @@ Elder Futhark keyboard for Android
 |      V |  ᚹ   | 5817 (U+16B9) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    | Same as 'W'                                    |
 |      W |  ᚹ   | 5817 (U+16B9) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    |                                                |
 |      X |      |               | ![red](https://via.placeholder.com/15/e06c75/000000?text=+) Missing      | Formerly `ᚦ 5798 (U+16A6)`                     |
-|      Y |      |               | ![red](https://via.placeholder.com/15/e06c75/000000?text=+) Missing      | Formerly `ᛇ 5831 (U+16C7)`                     |
+|      Y |  ᛇ   | 5831 (U+16C7) | ![blue](https://via.placeholder.com/15/61afef/000000?text=+) No 1:1 mapping | Phonetic `[i:]` `fl(Y)`                     |
 |      Z |  ᛉ   | 5833 (U+16C9) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    |                                                |
 |      : |  ᛬   | 5868 (U+16EC) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    |                                                |
 |      . |  ᛫   | 5867 (U+16EB) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    |                                                |
 |        |  ᚦ   | 5798 (U+16A6) | ![purple](https://via.placeholder.com/15/c678dd/000000?text=+) No letter-mapping | Phonetic `[θ]` `(TH)ing`               |
-|        |  ᛇ   | 5831 (U+16C7) | ![purple](https://via.placeholder.com/15/c678dd/000000?text=+) No letter-mapping | Phonetic `[i:]` `fl(Y)`                |
 |        |  ᛜ   | 5852 (U+16DC) | ![purple](https://via.placeholder.com/15/c678dd/000000?text=+) No letter-mapping | Phonetic `[ŋ]` `fi(NG)er`              |
 
 
