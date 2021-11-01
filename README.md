@@ -1,4 +1,4 @@
-# futharkboard
+# FutharkBoard
 [![GitHub release](https://img.shields.io/badge/release-none%20(indev)-orange)](https://github.com/DrMaxNix/futharkboard)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/DrMaxNix/futharkboard/blob/main/LICENSE)
 [![Maintaner](https://img.shields.io/badge/maintainer-DrMaxNix-blue)](https://www.drmaxnix.de)
