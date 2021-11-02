@@ -9,6 +9,18 @@ Elder Futhark keyboard for Android
 
 
 
+## Installation
+1. Download apk-file: [futharkboard-android-v1-0-0.apk](https://github.com/DrMaxNix/futharkboard/releases/download/v1.0.0/futharkboard-android-v1-0-0.apk "Android APK v1.0.0")
+2. Run downloaded apk-file
+3. You may get asked if you want to install this app from an unknown source
+4. Open the installed FutharkBoard-app
+5. Click on 'OPEN INPUT SETTINGS'-button
+6. Enable FutharkBoard in the list of available keyboards
+
+
+
+
+
 ## Characters
 | Letter | Rune | Unicode       | Status                                                                   | Comment                                        |
 | ------:|:----:|:------------- |:------------------------------------------------------------------------ |:---------------------------------------------- |
@@ -17,7 +29,7 @@ Elder Futhark keyboard for Android
 |      C |  ᚲ   | 5810 (U+16B2) | ![blue](https://via.placeholder.com/15/61afef/000000?text=+) Too small   | Same as 'K'                                    |
 |      D |  ᛞ   | 5854 (U+16DE) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    |                                                |
 |      E |  ᛖ   | 5846 (U+16D6) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    |                                                |
-|      F |  ᚠ   | 5792 (U+16A0) | ![blue](https://via.placeholder.com/15/61afef/000000?text=+) Rounded in some fonts | Formerly `ᚯ 5807 (U+16AF)`                     |
+|      F |  ᚠ   | 5792 (U+16A0) | ![blue](https://via.placeholder.com/15/61afef/000000?text=+) Rounded in some fonts | Formerly `ᚯ 5807 (U+16AF)`           |
 |      G |  ᚷ   | 5815 (U+16B7) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    |                                                |
 |      H |  ᚺ   | 5818 (U+16BA) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    |                                                |
 |      I |  ᛁ   | 5825 (U+16C1) | ![green](https://via.placeholder.com/15/98c379/000000?text=+) Correct    |                                                |
