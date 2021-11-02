@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context=".Main">
+	
+	<com.google.android.material.appbar.AppBarLayout
+		style="@style/Theme.Futharkboard.AppBarOverlay"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+		
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="horizontal">
+			
+			<ImageView
+				android:id="@+id/imageView2"
+				android:layout_width="?actionBarSize"
+				android:layout_height="?actionBarSize"
+				android:layout_gravity="start|center_vertical"
+				app:srcCompat="@mipmap/icon_foreground" />
+			
+			<TextView
+				android:id="@+id/title"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:minHeight="?actionBarSize"
+				android:paddingTop="@dimen/appbar_padding"
+				android:paddingStart="0dp"
+				android:paddingBottom="@dimen/appbar_padding"
+				android:paddingEnd="0dp"
+				android:text="@string/app_name"
+				android:textAlignment="viewStart"
+				android:textAppearance="@style/TextAppearance.Widget.AppCompat.Toolbar.Title"
+				android:textColor="@color/white" />
+			
+			<TextView
+				android:id="@+id/version"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:minHeight="?actionBarSize"
+				android:paddingTop="@dimen/appbar_padding"
+				android:paddingStart="6dp"
+				android:paddingBottom="@dimen/appbar_padding"
+				android:paddingEnd="@dimen/appbar_padding"
+				android:textAlignment="viewStart"
+				android:textAppearance="@style/TextAppearance.Widget.AppCompat.Toolbar.Subtitle"
+				android:textColor="@color/white" />
+		
+		</LinearLayout>
+		
+		<com.google.android.material.tabs.TabLayout
+			android:id="@+id/tabs"
+			style="@style/Theme.Futharkboard.TabLayout"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:theme="@style/Theme.Futharkboard.TabLayout"
+			app:tabGravity="fill" />
+	
+	</com.google.android.material.appbar.AppBarLayout>
+	
+	<androidx.viewpager.widget.ViewPager
+		android:id="@+id/view_pager"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

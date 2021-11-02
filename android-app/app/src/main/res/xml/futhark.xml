@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+	android:keyWidth="9%p"
+	android:horizontalGap="0.9%p"
+	android:verticalGap="3dip"
+	android:keyHeight="45dip">
+	
+	<Row>
+		<!-- Q --><Key android:codes="5852" android:keyLabel="ᛜ" android:keyEdgeFlags="left" android:horizontalGap="1%p" />
+		<!-- W --><Key android:codes="5817" android:keyLabel="ᚹ" />
+		<!-- E --><Key android:codes="5846" android:keyLabel="ᛖ" />
+		<!-- R --><Key android:codes="5809" android:keyLabel="ᚱ" />
+		<!-- T --><Key android:codes="5839" android:keyLabel="ᛏ" />
+		<!-- Y --><Key android:codes="5831" android:keyLabel="ᛇ" />
+		<!-- U --><Key android:codes="5794" android:keyLabel="ᚢ" />
+		<!-- I --><Key android:codes="5825" android:keyLabel="ᛁ" />
+		<!-- O --><Key android:codes="5855" android:keyLabel="ᛟ" />
+		<!-- P --><Key android:codes="5832" android:keyLabel="ᛈ" android:keyEdgeFlags="right" />
+	</Row>
+	
+	<Row>
+		<!-- A --><Key android:codes="5800"  android:keyLabel="ᚨ" android:keyEdgeFlags="left" android:horizontalGap="5.7%p" />
+		<!-- S --><Key android:codes="5834" android:keyLabel="ᛊ" />
+		<!-- D --><Key android:codes="5854" android:keyLabel="ᛞ" />
+		<!-- F --><Key android:codes="5792" android:keyLabel="ᚠ" />
+		<!-- G --><Key android:codes="5815" android:keyLabel="ᚷ" />
+		<!-- H --><Key android:codes="5818" android:keyLabel="ᚺ" />
+		<!-- J --><Key android:codes="5827" android:keyLabel="ᛃ" />
+		<!-- K --><Key android:codes="5810" android:keyLabel="ᚲ" />
+		<!-- L --><Key android:codes="5850" android:keyLabel="ᛚ" android:keyEdgeFlags="right" />
+	</Row>
+	
+	<Row>
+		<!-- Z --><Key android:codes="5833" android:keyLabel="ᛉ" android:keyEdgeFlags="left" android:horizontalGap="10.6%p" />
+		<!-- X --><Key android:codes="5798" android:keyLabel="ᚦ" />
+		<!-- C --><Key android:codes="5810" android:keyLabel="ᚲ" />
+		<!-- V --><Key android:codes="5817" android:keyLabel="ᚹ" />
+		<!-- B --><Key android:codes="5842" android:keyLabel="ᛒ" />
+		<!-- N --><Key android:codes="5822" android:keyLabel="ᚾ" />
+		<!-- M --><Key android:codes="5847" android:keyLabel="ᛗ" />
+		<!-- delete --><Key android:codes="-5" android:keyIcon="@drawable/key_del" android:iconPreview="@drawable/empty" android:keyWidth="20%p" android:keyEdgeFlags="right" android:isRepeatable="true" />
+	</Row>
+	
+	<Row android:rowEdgeFlags="bottom" android:horizontalGap="0.50%p">
+		<!-- : --><Key android:codes="5868" android:keyLabel="᛬" android:keyWidth="12.5%p" android:keyEdgeFlags="left" />
+		<!-- . --><Key android:codes="5867" android:keyLabel="᛫" android:keyWidth="12.5%p" />
+		<!-- space --><Key android:codes="32" android:keyIcon="@drawable/key_space" android:iconPreview="@drawable/empty" android:keyWidth="54%p" android:isRepeatable="true" />
+		<!-- enter --><Key android:codes="10" android:keyIcon="@drawable/key_enter" android:iconPreview="@drawable/empty" android:keyWidth="22%p" android:keyEdgeFlags="right" />
+	</Row>
+</Keyboard>

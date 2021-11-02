@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context=".ui.main.Start">
+	
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+		
+		<LinearLayout
+			android:id="@+id/page"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical">
+			
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_margin="20dp"
+				android:orientation="vertical">
+				
+				<TextView
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/start_about_text"
+					android:theme="@style/Theme.Futharkboard.DescriptiveText" />
+				
+				<Button
+					android:id="@+id/open_futharkboard_website"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/start_open_futharkboard_website" />
+			</LinearLayout>
+			
+			
+			
+			
+			
+			<TextView
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="@string/start_subheader_status"
+				android:theme="@style/Theme.Futharkboard.Subtitle" />
+			
+			<LinearLayout
+				android:id="@+id/status_not_enabled"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_margin="20dp"
+				android:orientation="vertical">
+				
+				<TextView
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:textColor="#F00"
+					android:text="@string/start_status_not_enabled"
+					android:theme="@style/Theme.Futharkboard.DescriptiveText" />
+				
+				<Button
+					android:id="@+id/open_ime_settings"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/start_open_ime_settings" />
+			</LinearLayout>
+			
+			<LinearLayout
+				android:id="@+id/status_enabled"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_margin="20dp"
+				android:orientation="vertical">
+				
+				<TextView
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:textColor="#0F0"
+					android:text="@string/start_status_enabled"
+					android:theme="@style/Theme.Futharkboard.DescriptiveText" />
+			</LinearLayout>
+			
+			
+			
+			
+			
+			<TextView
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="@string/start_subheader_bugreport"
+				android:theme="@style/Theme.Futharkboard.Subtitle" />
+			
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_margin="20dp"
+				android:orientation="vertical">
+				
+				<TextView
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/start_bugreport_text"
+					android:theme="@style/Theme.Futharkboard.DescriptiveText" />
+				
+				<Button
+					android:id="@+id/bugreport_mail"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/start_bugreport_mail" />
+			</LinearLayout>
+			
+			
+			
+			
+			
+			<TextView
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="@string/start_subheader_foss"
+				android:theme="@style/Theme.Futharkboard.Subtitle" />
+			
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_margin="20dp"
+				android:orientation="vertical">
+				
+				<TextView
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/start_foss_text"
+					android:theme="@style/Theme.Futharkboard.DescriptiveText" />
+				
+				<Button
+					android:id="@+id/open_gh"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/start_foss_open_gh" />
+				
+				<Button
+					android:id="@+id/open_gh_license"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/start_foss_open_gh_license" />
+			</LinearLayout>
+		</LinearLayout>
+	</ScrollView>
+</FrameLayout>
