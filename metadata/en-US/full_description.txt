@@ -1,0 +1,6 @@
+FutharkBoard is a Free and Open Source Elder Futhark Keyboard for Android Phones.
+
+<b>Features</b>
+<ul><li>System-wide keyboard with Elder Futhark runes</li></ul>
+
+A list of all runes and used sources during research can be found on the FutharkBoard website: https://futharkboard.drmaxnix.de
