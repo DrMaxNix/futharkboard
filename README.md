@@ -1,26 +1,27 @@
 # FutharkBoard
-[![GitHub repository](https://img.shields.io/badge/GitHub-DrMaxNix/futharkboard-lightgrey)](https://github.com/DrMaxNix/futharkboard)
-[![GitHub release](https://img.shields.io/badge/release-v1.0.0-orange)](https://github.com/DrMaxNix/futharkboard/releases/tag/v1.0.0)
+[![GitHub release](https://img.shields.io/github/release/DrMaxNix/futharkboard.svg?logo=github)](https://github.com/DrMaxNix/futharkboard/releases/latest)
+[![F-Droid](https://img.shields.io/f-droid/v/de.drmaxnix.futharkboard.svg?logo=fdroid)](https://f-droid.org/packages/de.drmaxnix.futharkboard/)
 [![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/DrMaxNix/futharkboard/blob/main/LICENSE)
-[![Maintaner](https://img.shields.io/badge/maintainer-DrMaxNix-blue)](https://www.drmaxnix.de)
+[![Maintaner](https://img.shields.io/badge/maintainer-DrMaxNix-orange)](https://www.drmaxnix.de)
 
 Elder Futhark keyboard for Android
 
 ![Android Screenshot](https://raw.githubusercontent.com/DrMaxNix/futharkboard/main/assets/screenshot-android.png "Android Screenshot")
 
 
-
-
-
 ## Installation
-1. Download apk-file: [futharkboard-android-v1-0-0.apk](https://github.com/DrMaxNix/futharkboard/releases/download/v1.0.0/futharkboard-android-v1-0-0.apk "Android APK v1.0.0")
+<a href="https://f-droid.org/packages/de.drmaxnix.futharkboard/">
+	<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" height="80">
+</a>
+
+Or
+
+1. Download the latest APK from the [release section](https://github.com/DrMaxNix/futharkboard/releases/latest)
 2. Run downloaded apk-file
 3. You may get asked if you want to install this app from an unknown source
-4. Open the installed FutharkBoard-app
+4. Open the installed FutharkBoard App
 5. Click on 'OPEN INPUT SETTINGS'-button
 6. Enable FutharkBoard in the list of available keyboards
-
-
 
 
 ## Characters
@@ -58,11 +59,7 @@ Elder Futhark keyboard for Android
 |        |  ᛜ   | 5852 (U+16DC) | ![purple](https://heximg.tjdev.de/c678dd?res=16) No letter-mapping | 'Q'-key on keyboard; Phonetic `[ŋ]` `fi(NG)er`              |
 
 
-
-
-
 ## Resources
 - https://en.wikipedia.org/wiki/Elder_Futhark (01 Nov 2021)
 - http://xahlee.info/comp/unicode_runic.html (01 Nov 2021)
 - http://www.heathenhof.com/the-elder-futhark-runes-an-instructive-guide/elder_futhark (01 Nov 2021)
-
